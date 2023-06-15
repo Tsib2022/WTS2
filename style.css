@@ -1,0 +1,50 @@
+
+p { 
+    color:black;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 130px;
+    margin-bottom: 60px;
+}
+h1{
+    color:peru;
+    margin: 30 px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    border: 1px solid peru;
+    border-radius: 15px;
+    border-width: 0.2cm;
+    padding:18px;
+}
+html{
+   
+    font-family:'Comfortaa', sans-serif;
+    background-image: url("fon1.jpg");
+    background-size: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 800px;
+    width: 800x;
+
+}
+h2{
+    color:peru;
+    text-shadow: 2px 2px 2px black;
+    /* margin-top: 90px; */
+    /* padding: auto; */
+    
+}
+img{
+    float: left;
+}
+ul{
+    padding: 15px;
+}
+img.c{
+    float:right;
+}
+li{
+    font-size: 18px;
+}
+
